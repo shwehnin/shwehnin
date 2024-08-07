@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Hnin Hnin Wai 👋
 
-<!--
-**shwehnin/shwehnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a software developer with a passion for open-source projects and collaboration. I love coding in Dart(Flutter) and Kotlin for mobile and PHP (Laravel), Node Js(Express) for web, and I'm currently looking for new job as a Mobile Developer role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: shwehnindev@gmail.com
+
+## Skills
+
+- Programming Languages: Dart, Kotlin, PHP, Node JS
+- Frameworks: Flutter, Laravel, Express
+- Tools: Git, AWS
+
+## Connect with Me
+
+- [https://www.linkedin.com/in/hnin-hnin-wai-97447a185/]
+- [https://hninhninwai.xyz/]
