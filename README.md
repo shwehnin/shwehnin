@@ -2,7 +2,8 @@
 
 ## About Me
 
-I'm a software developer with a passion for open-source projects and collaboration. I love coding in Dart(Flutter) and Kotlin for mobile and PHP (Laravel), Node Js(Express) for web, and I'm currently looking for new job as a Mobile Developer role.
+I'm a mobile developer with a passion for open-source projects and collaboration. 
+I love coding in Dart (Flutter) and Kotlin for mobile development, as well as PHP (Laravel) and Node.js (Express) for web development. 
 
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: shwehnindev@gmail.com
